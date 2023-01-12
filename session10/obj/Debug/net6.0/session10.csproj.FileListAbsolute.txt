@@ -1,0 +1,15 @@
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.csproj.AssemblyReference.cache
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.AssemblyInfoInputs.cache
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.AssemblyInfo.cs
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\session10\bin\Debug\net6.0\session10.exe
+D:\skillhouseTest\session10\bin\Debug\net6.0\session10.deps.json
+D:\skillhouseTest\session10\bin\Debug\net6.0\session10.runtimeconfig.json
+D:\skillhouseTest\session10\bin\Debug\net6.0\session10.dll
+D:\skillhouseTest\session10\bin\Debug\net6.0\session10.pdb
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.dll
+D:\skillhouseTest\session10\obj\Debug\net6.0\refint\session10.dll
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.pdb
+D:\skillhouseTest\session10\obj\Debug\net6.0\session10.genruntimeconfig.cache
+D:\skillhouseTest\session10\obj\Debug\net6.0\ref\session10.dll
