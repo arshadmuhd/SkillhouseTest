@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\skillhouseTest\\session9\\session9.csproj": {}
+    "D:\\skillhouseTest\\UseCase2\\UseCase2.csproj": {}
   },
   "projects": {
-    "D:\\skillhouseTest\\session9\\session9.csproj": {
+    "D:\\skillhouseTest\\UseCase2\\UseCase2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\skillhouseTest\\session9\\session9.csproj",
-        "projectName": "session9",
-        "projectPath": "D:\\skillhouseTest\\session9\\session9.csproj",
+        "projectUniqueName": "D:\\skillhouseTest\\UseCase2\\UseCase2.csproj",
+        "projectName": "UseCase2",
+        "projectPath": "D:\\skillhouseTest\\UseCase2\\UseCase2.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\skillhouseTest\\session9\\obj\\",
+        "outputPath": "D:\\skillhouseTest\\UseCase2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,6 +57,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

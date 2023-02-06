@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\skillhouseTest\\session9\\session9.csproj",
-      "projectName": "session9",
-      "projectPath": "D:\\skillhouseTest\\session9\\session9.csproj",
+      "projectUniqueName": "D:\\skillhouseTest\\UseCase\\UseCase.csproj",
+      "projectName": "UseCase",
+      "projectPath": "D:\\skillhouseTest\\UseCase\\UseCase.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\skillhouseTest\\session9\\obj\\",
+      "outputPath": "D:\\skillhouseTest\\UseCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
