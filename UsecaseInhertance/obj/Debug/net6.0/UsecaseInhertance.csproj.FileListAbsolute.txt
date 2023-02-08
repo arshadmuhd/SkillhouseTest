@@ -1,0 +1,15 @@
+D:\skillhouseTest\UsecaseInhertance\bin\Debug\net6.0\UsecaseInhertance.exe
+D:\skillhouseTest\UsecaseInhertance\bin\Debug\net6.0\UsecaseInhertance.deps.json
+D:\skillhouseTest\UsecaseInhertance\bin\Debug\net6.0\UsecaseInhertance.runtimeconfig.json
+D:\skillhouseTest\UsecaseInhertance\bin\Debug\net6.0\UsecaseInhertance.dll
+D:\skillhouseTest\UsecaseInhertance\bin\Debug\net6.0\UsecaseInhertance.pdb
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.csproj.AssemblyReference.cache
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.AssemblyInfoInputs.cache
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.AssemblyInfo.cs
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.dll
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\refint\UsecaseInhertance.dll
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.pdb
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\UsecaseInhertance.genruntimeconfig.cache
+D:\skillhouseTest\UsecaseInhertance\obj\Debug\net6.0\ref\UsecaseInhertance.dll
