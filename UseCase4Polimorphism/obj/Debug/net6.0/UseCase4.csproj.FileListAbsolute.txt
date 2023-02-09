@@ -1,0 +1,15 @@
+D:\skillhouseTest\UseCase4\bin\Debug\net6.0\UseCase4.exe
+D:\skillhouseTest\UseCase4\bin\Debug\net6.0\UseCase4.deps.json
+D:\skillhouseTest\UseCase4\bin\Debug\net6.0\UseCase4.runtimeconfig.json
+D:\skillhouseTest\UseCase4\bin\Debug\net6.0\UseCase4.dll
+D:\skillhouseTest\UseCase4\bin\Debug\net6.0\UseCase4.pdb
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.csproj.AssemblyReference.cache
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.AssemblyInfoInputs.cache
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.AssemblyInfo.cs
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.dll
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\refint\UseCase4.dll
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.pdb
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\UseCase4.genruntimeconfig.cache
+D:\skillhouseTest\UseCase4\obj\Debug\net6.0\ref\UseCase4.dll
