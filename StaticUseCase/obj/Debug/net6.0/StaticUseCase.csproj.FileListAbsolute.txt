@@ -1,0 +1,15 @@
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.csproj.AssemblyReference.cache
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.AssemblyInfoInputs.cache
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.AssemblyInfo.cs
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\StaticUseCase\bin\Debug\net6.0\StaticUseCase.exe
+D:\skillhouseTest\StaticUseCase\bin\Debug\net6.0\StaticUseCase.deps.json
+D:\skillhouseTest\StaticUseCase\bin\Debug\net6.0\StaticUseCase.runtimeconfig.json
+D:\skillhouseTest\StaticUseCase\bin\Debug\net6.0\StaticUseCase.dll
+D:\skillhouseTest\StaticUseCase\bin\Debug\net6.0\StaticUseCase.pdb
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.dll
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\refint\StaticUseCase.dll
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.pdb
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\StaticUseCase.genruntimeconfig.cache
+D:\skillhouseTest\StaticUseCase\obj\Debug\net6.0\ref\StaticUseCase.dll

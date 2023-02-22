@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "locKuW5NhTAOQpxR+qP/G5ailz0jsjxeJL0mtXEU5Mg=",
+  "Source": "ApiDataServer",
+  "BasePath": "_content/ApiDataServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

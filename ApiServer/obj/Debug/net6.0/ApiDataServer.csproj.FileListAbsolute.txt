@@ -1,0 +1,14 @@
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.csproj.AssemblyReference.cache
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.AssemblyInfoInputs.cache
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.AssemblyInfo.cs
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.MvcApplicationPartsAssemblyInfo.cs
+D:\skillhouseTest\Ap1\obj\Debug\net6.0\ApiDataServer.MvcApplicationPartsAssemblyInfo.cache
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.csproj.AssemblyReference.cache
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.AssemblyInfoInputs.cache
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.AssemblyInfo.cs
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.MvcApplicationPartsAssemblyInfo.cs
+D:\skillhouseTest\ApiServer\obj\Debug\net6.0\ApiDataServer.MvcApplicationPartsAssemblyInfo.cache

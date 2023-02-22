@@ -11,13 +11,16 @@ namespace UseCase4
         public string Name { get; set; }
         public int Age { get; set; }
         public string Gender { get; set; }
-        public double Salary { get; set; }
-        public Store StoreInfo { get; set; }
+        
+        
         public ContactInformation Contact { get; set; }
 
-        public ShiftTime Shift { get; set; }
+        
 
-        public abstract void Walk();
+        public abstract void Walk()
+        {
+            Console.WriteLine("Hi, there. I am managngthe store.");
+        }
         public abstract void Work();
 
 

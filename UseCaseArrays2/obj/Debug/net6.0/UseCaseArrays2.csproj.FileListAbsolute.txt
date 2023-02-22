@@ -1,0 +1,15 @@
+D:\skillhouseTest\UseCaseArrays2\bin\Debug\net6.0\UseCaseArrays2.exe
+D:\skillhouseTest\UseCaseArrays2\bin\Debug\net6.0\UseCaseArrays2.deps.json
+D:\skillhouseTest\UseCaseArrays2\bin\Debug\net6.0\UseCaseArrays2.runtimeconfig.json
+D:\skillhouseTest\UseCaseArrays2\bin\Debug\net6.0\UseCaseArrays2.dll
+D:\skillhouseTest\UseCaseArrays2\bin\Debug\net6.0\UseCaseArrays2.pdb
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.csproj.AssemblyReference.cache
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.AssemblyInfoInputs.cache
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.AssemblyInfo.cs
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.dll
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\refint\UseCaseArrays2.dll
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.pdb
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\UseCaseArrays2.genruntimeconfig.cache
+D:\skillhouseTest\UseCaseArrays2\obj\Debug\net6.0\ref\UseCaseArrays2.dll

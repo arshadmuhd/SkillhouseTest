@@ -1,0 +1,15 @@
+D:\skillhouseTest\UseCaseStatic2\bin\Debug\net6.0\UseCaseStatic2.exe
+D:\skillhouseTest\UseCaseStatic2\bin\Debug\net6.0\UseCaseStatic2.deps.json
+D:\skillhouseTest\UseCaseStatic2\bin\Debug\net6.0\UseCaseStatic2.runtimeconfig.json
+D:\skillhouseTest\UseCaseStatic2\bin\Debug\net6.0\UseCaseStatic2.dll
+D:\skillhouseTest\UseCaseStatic2\bin\Debug\net6.0\UseCaseStatic2.pdb
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.csproj.AssemblyReference.cache
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.AssemblyInfoInputs.cache
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.AssemblyInfo.cs
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.dll
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\refint\UseCaseStatic2.dll
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.pdb
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\UseCaseStatic2.genruntimeconfig.cache
+D:\skillhouseTest\UseCaseStatic2\obj\Debug\net6.0\ref\UseCaseStatic2.dll

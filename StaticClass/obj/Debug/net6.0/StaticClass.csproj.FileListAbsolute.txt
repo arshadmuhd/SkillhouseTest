@@ -1,0 +1,15 @@
+D:\skillhouseTest\StaticClass\bin\Debug\net6.0\StaticClass.exe
+D:\skillhouseTest\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+D:\skillhouseTest\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+D:\skillhouseTest\StaticClass\bin\Debug\net6.0\StaticClass.dll
+D:\skillhouseTest\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.dll
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+D:\skillhouseTest\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll
