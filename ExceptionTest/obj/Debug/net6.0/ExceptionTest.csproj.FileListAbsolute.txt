@@ -1,0 +1,15 @@
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.csproj.AssemblyReference.cache
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.AssemblyInfoInputs.cache
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.AssemblyInfo.cs
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\ExceptionTest\bin\Debug\net6.0\ExceptionTest.exe
+D:\skillhouseTest\ExceptionTest\bin\Debug\net6.0\ExceptionTest.deps.json
+D:\skillhouseTest\ExceptionTest\bin\Debug\net6.0\ExceptionTest.runtimeconfig.json
+D:\skillhouseTest\ExceptionTest\bin\Debug\net6.0\ExceptionTest.dll
+D:\skillhouseTest\ExceptionTest\bin\Debug\net6.0\ExceptionTest.pdb
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.dll
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\refint\ExceptionTest.dll
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.pdb
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ExceptionTest.genruntimeconfig.cache
+D:\skillhouseTest\ExceptionTest\obj\Debug\net6.0\ref\ExceptionTest.dll

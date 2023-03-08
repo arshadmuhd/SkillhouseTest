@@ -98,22 +98,7 @@ namespace ApiDataServer.Controller
               return NotFound();
           }*/
 
-        [HttpDelete("{name:string}")]
-        public async Task<IActionResult> DeleteProduct([FromRoute] string name)
-        {
-
-            var product = DbContext.products.Find(id);
-            if (product != null)
-            {
-                DbContext.Remove(product);
-                await DbContext.SaveChangesAsync();
-
-                return Ok(product);
-
-            }
-
-            return NotFound();
-        }
+   
 
 
 

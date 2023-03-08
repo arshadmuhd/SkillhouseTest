@@ -1,0 +1,153 @@
+﻿
+@model RegistrationModel;
+
+@{
+    ViewData["Title"] = "Registration";
+}
+<style type="text/css">
+    .d-none {
+        display: none;
+    }
+</style>
+<section>
+    <div class="container p-1">
+        <form asp-action="Payment">
+            <div class="form-row">
+
+                <div class="form-group col-md-12">
+                    <label asp-for="Name">Full Name</label>
+                    <input asp-for="Name" type="text" class="form-control" placeholder="Full name">
+
+
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="Usn">USN</label>
+                    <input asp-for="Usn" type="text" class="form-control" placeholder="USN">
+                </div>
+
+                <div class="form-group col-md-6">
+                    <label asp-for="Mobile">Mobile</label>
+                    <input asp-for="Mobile" type="number" class="form-control" placeholder="Mobile">
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="EmailAddress">Email</label>
+                    <input asp-for="EmailAddress" type="email" class="form-control" placeholder="Email">
+                </div>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="CollageName">College Name</label>
+                <input asp-for="CollageName" type="text" class="form-control" id="inputAddress" placeholder="College Name">
+            </div>
+
+
+
+            <div class="form-group ">
+                <label asp-for="EventType">Event Types</label>
+                <select asp-for="EventType" class="form-control" id="exampleFormControlSelect" onchange="EnableEvent(this)">
+                    <option value="" selected> Select One</option>
+                    <option value="Cultural"> Cultural Event</option>
+                    <option value="Technical">Technical Event</option>
+                    <option value="Special">Special Event</option>
+
+                </select>
+
+
+                <div id="cultural" class="d-none">
+                    <label asp-for="EventName">Select Event</label>
+                    <select asp-for="EventName" class="form-control" id="exampleFormControlSelect1" onchange="EnablePrice(this)">
+                        <option selected> Robo Giant</option>
+                        <option>Presentation</option>
+                        <option>Electric</option>
+
+                    </select>
+                </div>
+
+                
+
+                <div id="technical" class="d-none">
+                    <label asp-for="EventName">Select Event</label>
+                    <select asp-for="EventName" class="form-control" id="exampleFormControlSelect2">
+                        <option selected> abc</option>
+                        <option>efg</option>
+                        <option>Sghj</option>
+
+                    </select>
+                </div>
+
+                <div id="Special" class="d-none">
+                    <label asp-for="EventName">Select Event</label>
+                    <select asp-for="EventName" class="form-control" id="exampleFormControlSelect3">
+                        <option selected> Crtyuuii</option>
+                        <option>errtthdgz</option>
+                        <option>fjglkdjfoisfm</option>
+
+                    </select>
+                </div>
+
+                <div id="price" class="col-md-6 d-none">
+                    <label>Price</label>
+                    <input  asp-for="Amount" value="@Model.Amount" disabled />
+                </div>
+
+
+            </div>
+
+            
+
+
+
+
+            @*          <div class="form-group ">
+            <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="gridCheck">
+            <label class="form-check-label" for="gridCheck">
+            Check me out
+            </label>
+            </div>
+            </div>*@
+            <button type="submit" class="btn btn-primary">Register</button>
+        </form>
+    </div>
+
+</section>
+
+
+<script type="text/javascript">
+    function EnableEvent(answer) {
+        console.log(answer.value);
+        if (answer.value == "Cultural") {
+            document.getElementById('cultural').classList.remove('d-none');
+        } else {
+            document.getElementById('cultural').classList.add('d-none');
+
+        }
+        if (answer.value == "Technical") {
+            document.getElementById('technical').classList.remove('d-none');
+
+        } else {
+            document.getElementById('technical').classList.add('d-none');
+
+        }
+        if (answer.value == "Special") {
+            document.getElementById('Special').classList.remove('d-none');
+
+        } else {
+            document.getElementById('Special').classList.add('d-none');
+
+        }
+
+    };
+
+
+    function EnablePrice(answer) {
+        document.getElementById('price').classList.remove('d-none');
+        
+
+    }
+
+    
+</script>
+
+
+
