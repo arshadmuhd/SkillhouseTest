@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UVMhNOaVlb275vHjyHECAVSBlfkZtJL4gh54Ps3pETQ=",
+  "Source": "BusWebApi",
+  "BasePath": "_content/BusWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

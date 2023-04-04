@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusApi", "BusApi\BusApi.csproj", "{BAACEE77-0C78-4F4F-8343-6E251B26FED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusManagement.Data", "BusManagement.Data\BusManagement.Data.csproj", "{78C91357-0BDE-4CFD-B069-0CABA8BCFDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAACEE77-0C78-4F4F-8343-6E251B26FED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAACEE77-0C78-4F4F-8343-6E251B26FED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAACEE77-0C78-4F4F-8343-6E251B26FED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAACEE77-0C78-4F4F-8343-6E251B26FED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C91357-0BDE-4CFD-B069-0CABA8BCFDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C91357-0BDE-4CFD-B069-0CABA8BCFDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C91357-0BDE-4CFD-B069-0CABA8BCFDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C91357-0BDE-4CFD-B069-0CABA8BCFDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99391AE-F7A2-4A3B-8C24-BE063A999587}
+	EndGlobalSection
+EndGlobal

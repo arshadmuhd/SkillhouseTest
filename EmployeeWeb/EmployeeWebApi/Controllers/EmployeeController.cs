@@ -41,7 +41,7 @@ namespace EmployeeWebApi.Controllers
         [HttpGet("GetEmployee")]
         public Employee GetEmployee(int id)
         {
-            var EmployeeDetails= EmpDetails.Where(d => d.EmployeeId == id ).FirstOrDefault();
+            var EmployeeDetails = EmpDetails.Where(d => d.EmployeeId == id).FirstOrDefault();
             return EmployeeDetails;
         }
 

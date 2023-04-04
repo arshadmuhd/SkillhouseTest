@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DPCRXXR3RyBR83ELVneBpFkmp55hKdwIseHNXiwmSWI=",
+  "Source": "BusManagementApi",
+  "BasePath": "_content/BusManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

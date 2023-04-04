@@ -1,0 +1,14 @@
+D:\skillhouseTest\BusManagement\BusManagement.Data\bin\Debug\net6.0\BusManagement.Data.deps.json
+D:\skillhouseTest\BusManagement\BusManagement.Data\bin\Debug\net6.0\BusManagement.Data.runtimeconfig.json
+D:\skillhouseTest\BusManagement\BusManagement.Data\bin\Debug\net6.0\BusManagement.Data.dll
+D:\skillhouseTest\BusManagement\BusManagement.Data\bin\Debug\net6.0\BusManagement.Data.pdb
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.csproj.AssemblyReference.cache
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.AssemblyInfoInputs.cache
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.AssemblyInfo.cs
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.dll
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\refint\BusManagement.Data.dll
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.pdb
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\BusManagement.Data.genruntimeconfig.cache
+D:\skillhouseTest\BusManagement\BusManagement.Data\obj\Debug\net6.0\ref\BusManagement.Data.dll

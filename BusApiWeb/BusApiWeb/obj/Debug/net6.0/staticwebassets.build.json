@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JZ9+TJe7bPhxnBsWGZAt7PbDkiJ01pwy56nK+ppQ3CY=",
+  "Source": "BusApiWeb",
+  "BasePath": "_content/BusApiWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

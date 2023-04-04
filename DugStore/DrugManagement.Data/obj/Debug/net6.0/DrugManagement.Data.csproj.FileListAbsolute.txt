@@ -1,0 +1,14 @@
+D:\skillhouseTest\DugStore\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.deps.json
+D:\skillhouseTest\DugStore\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.runtimeconfig.json
+D:\skillhouseTest\DugStore\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.dll
+D:\skillhouseTest\DugStore\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.pdb
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.csproj.AssemblyReference.cache
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.AssemblyInfoInputs.cache
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.AssemblyInfo.cs
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.csproj.CoreCompileInputs.cache
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.dll
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\refint\DrugManagement.Data.dll
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.pdb
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.genruntimeconfig.cache
+D:\skillhouseTest\DugStore\DrugManagement.Data\obj\Debug\net6.0\ref\DrugManagement.Data.dll
